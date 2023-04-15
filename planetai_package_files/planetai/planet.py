@@ -67,7 +67,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.""")
 
     def license():
-        print('Kuwinda Corp. License')
+        print('MIT License')
 
     def credits():
         print('Author: Aziz Brown \n https://kuwindacorp.com/ \n github: https://github.com/sageofnamek')
